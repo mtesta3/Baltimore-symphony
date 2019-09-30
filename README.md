@@ -1,5 +1,4 @@
-# Baltimore-symphony
-Performance history data set of the Baltimore Symphony Orchestra, 1967-2017.
+# Performance history data set of the Baltimore Symphony Orchestra, 1967-2017
 
 A transformation of the data is available in beta mode at https://openmusiclibrary.org/events/archive/baltimore/
 
