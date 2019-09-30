@@ -7,4 +7,5 @@ Data was harvested from two databases maintained by the Baltimore Symphony Orche
 
 In 2018-2019, interns and Peabody Archives staff normalized names and dates in Excel and OpenRefine, added columns for name authority IDs according to VIAF.org, and removed duplicate entries. Discrepancies and missing entries were checked against BSO programs.
 
-Contact mtesta3@jhu.edu for further information.
+
+This project was supported by the Baltimore Symphony Orchestra, the Peabody Institute of the Johns Hopkins University, the Music Library Association and its Atlantic Chapter, and the Open Music Library. Contact mtesta3@jhu.edu for further information.
